@@ -1,7 +1,7 @@
 ## Velkommen til Carebridge org
 
 
-Main repo:
+Main repo Backend:
 [Carebridge Repo](https://github.com/Carebridge-org/Carebridge)
 
 
