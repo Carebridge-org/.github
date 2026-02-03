@@ -10,7 +10,8 @@ Frontend Repo
 
 
 ## Dokumentation og guides:
-[Guides & Docs](https://carebridge.mintlify.app/)
 
+### Database Connection
+Kommer senest d. 06/02/2026
 
 
