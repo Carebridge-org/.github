@@ -12,6 +12,6 @@ Frontend Repo
 ## Dokumentation og guides:
 
 ### Database Connection
-Kommer senest d. 06/02/2026
+guide til forbindelse til databasen, kan findes på backend repo
 
 
